@@ -1,0 +1,11 @@
+U:\ftc\AAI\bin\Debug\netcoreapp2.0\AAI.deps.json
+U:\ftc\AAI\bin\Debug\netcoreapp2.0\AAI.runtimeconfig.json
+U:\ftc\AAI\bin\Debug\netcoreapp2.0\AAI.runtimeconfig.dev.json
+U:\ftc\AAI\bin\Debug\netcoreapp2.0\AAI.dll
+U:\ftc\AAI\bin\Debug\netcoreapp2.0\AAI.pdb
+U:\ftc\AAI\obj\Debug\netcoreapp2.0\AAI.csprojAssemblyReference.cache
+U:\ftc\AAI\obj\Debug\netcoreapp2.0\AAI.csproj.CoreCompileInputs.cache
+U:\ftc\AAI\obj\Debug\netcoreapp2.0\AAI.AssemblyInfoInputs.cache
+U:\ftc\AAI\obj\Debug\netcoreapp2.0\AAI.AssemblyInfo.cs
+U:\ftc\AAI\obj\Debug\netcoreapp2.0\AAI.dll
+U:\ftc\AAI\obj\Debug\netcoreapp2.0\AAI.pdb
